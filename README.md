@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanjeevsharmaads
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning aws
+- 🌱 I’m currently learning devops and cloud
 - 💞️ I’m looking to collaborate on react, node, aws.
 - 📫 How to reach me ... sanjeevklsharma@gmail.com
 
